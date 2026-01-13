@@ -35,26 +35,6 @@ This project demonstrates hands-on experience with **Python, Django, JavaScript,
 
 ---
 
-## 🖼️ Screenshots
-
-### User Profile Page
-![User Profile Screenshot](screenshots/user-profile.png)  
-Sample user profile showing uploaded content, bio, and interactions.
-
-### Restaurant Profile Page
-![Restaurant Profile Screenshot](screenshots/restaurant-profile.png)  
-Restaurant profile page displaying posts, images, and reviews.
-
-### Chat Feature
-![Chat Screenshot](screenshots/chat-feature.png)  
-Demonstrates real-time chat functionality between users.
-
-### Search Functionality
-![Search Screenshot](screenshots/search-feature.png)  
-Advanced search queries for finding restaurants.
-
----
-
 ## 💡 Lessons Learned
 - Collaborated on a **full-stack web app** using Agile workflow and Git version control.  
 - Implemented **user authentication, CRUD operations, and media uploads** with Django.  
