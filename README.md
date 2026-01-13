@@ -1,7 +1,7 @@
 # Elite Eats: Social App for Small Restaurants (Capstone Project)
 
 ## 🎥 Demo Video
-Watch the full project demo: [Demo Video Link](YOUR-DEMO-VIDEO-LINK)
+Watch the full project demo: [Demo Video Link](https://youtu.be/3je-OQcjVAE?si=ndCGicBmYADHlYcd)
 
 ## 🌟 Overview
 **Elite Eats** is a collaborative capstone project from a Software Engineering Bootcamp. It’s a **full-stack CRUD web application** combining social media and Yelp-style functionality, designed for users who love **small, privately-owned restaurants**.  
